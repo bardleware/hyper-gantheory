@@ -29,8 +29,6 @@ exports.decorateConfig = (config) => (
     foregroundColor,
     borderColor: borderColor,
     cursorColor: foregroundColor,
-    cursorShape: 'UNDERLINE',
-    fontFamily: '"Meslo LG L", Menlo, "DejaVu Sans Mono", "Lucida Console", monospace',
     colors,
     css: `
       ${config.css || ''}

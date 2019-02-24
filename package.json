@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:bardleware/hyper-gantheory.git"
+    "url": "git@github.com:devan-sisson/hyper-gantheory.git"
   },
   "keywords": [
     "hyper",
@@ -17,7 +17,7 @@
   "author": "Devan Sisson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bardleware/hyper-gantheory/issues"
+    "url": "https://github.com/devan-sisson/hyper-gantheory/issues"
   },
-  "homepage": "https://github.com/bardleware/hyper-gantheory/#readme"
+  "homepage": "https://github.com/devan-sisson/hyper-gantheory/#readme"
 }
